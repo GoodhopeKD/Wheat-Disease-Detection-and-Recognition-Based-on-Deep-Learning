@@ -1,0 +1,1 @@
+Placeholder file for the folders where the training images are in the dataset files
